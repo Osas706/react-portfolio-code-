@@ -1,0 +1,26 @@
+[
+  {
+    "title": "shushi webpage",
+    "imageSrc": "projects/sush.png",
+    "description": "The first page of a shushi webpage",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://https-github-com-osas706-shushi-web-page.vercel.app/",
+    "source": "https://github.com/Osas706/Shushi-WebPage"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather.png",
+    "description": "A simple weather App",
+    "skills": ["Vue", "Javascript", "HTML", "CSS"],
+    "demo": "https://weather-app-rosy-five-69.vercel.app/",
+    "source": "https://github.com/Osas706/Weather-App"
+  },
+  {
+    "title": "Invoice Page",
+    "imageSrc": "projects/billing.png",
+    "description": "An invoice page",
+    "skills": ["React", "Javascript", "HTML", "CSS"],
+    "demo": "https://react-billing-page.vercel.app/",
+    "source": "https://github.com/Osas706/react-billing-page"
+  }
+]
